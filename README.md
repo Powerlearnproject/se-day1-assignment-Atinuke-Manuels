@@ -1,7 +1,3 @@
-Here’s a formatted version of your document to meet a more structured and clear requirement:
-
----
-
 # Software Engineering Day 1 Assignment
 
 ## Part 1: Introduction to Software Engineering
